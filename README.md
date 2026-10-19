@@ -1,4 +1,6 @@
-# 🍓 Berry OS
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/12819fc8-22a4-47dc-a16b-0dec3d2144cb" />
+
+# Berry OS
 
 <p align="center">
   <b>Мощь Linux. Свобода от Windows.</b><br>
