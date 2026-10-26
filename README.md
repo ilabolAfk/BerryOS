@@ -58,15 +58,13 @@
 
 ## 🖼️ Скриншоты
 
-*(Здесь ты можешь вставить свои скриншоты, которые ты сделал. Например:)*
-
 | Рабочий стол | Berry Command Center |
 | :---: | :---: |
-| ![Desktop](https://via.placeholder.com/600x350.png?text=Berry+OS+Desktop) | ![Center](https://via.placeholder.com/600x350.png?text=Berry+Command+Center) |
+| ![Desktop](https://just-sources.com/os/desctop.png) | ![Center](https://just-sources.com/os/comcenter.png) |
 
 | Berry Antivirus | Berry Windows Bridge |
 | :---: | :---: |
-| ![Antivirus](https://via.placeholder.com/600x350.png?text=Berry+Antivirus) | ![Wine](https://via.placeholder.com/600x350.png?text=Windows+Bridge) |
+| ![Antivirus](https://just-sources.com/os/antivirus.png) | ![Wine](https://just-sources.com/os/winbridge.png) |
 
 ---
 
